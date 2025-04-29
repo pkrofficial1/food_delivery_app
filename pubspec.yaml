@@ -1,0 +1,40 @@
+name: fresh_eats_delivery
+description: A modern food delivery app built with Flutter.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  flutter_svg: ^2.0.7
+  provider: ^6.0.5
+  shared_preferences: ^2.5.3
+  http: ^1.1.0
+  cached_network_image: ^3.2.3
+  google_fonts: ^5.1.0
+  flutter_rating_bar: ^4.0.1
+  intl: ^0.18.1
+  smooth_page_indicator: ^1.1.0
+  flutter_map: ^5.0.0
+  latlong2: ^0.9.0
+  flutter_secure_storage: ^8.0.0
+  badges: ^3.1.1
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
