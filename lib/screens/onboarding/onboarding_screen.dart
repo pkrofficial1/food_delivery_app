@@ -22,7 +22,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       description:
           'Get your favorite food delivered to your doorstep in minutes',
       image:
-          'https://images.unsplash.com/photo-1531171673193-41b4d701f95c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80',
+          'https://img.freepik.com/free-photo/baked-chicken-drumsticks-honey-mustard-marinade_2829-3963.jpg?ga=GA1.1.161854719.1747314434&semt=ais_hybrid&w=740',
     ),
     const OnboardingPage(
       title: 'Fresh Food',
